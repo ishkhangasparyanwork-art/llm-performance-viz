@@ -1,1 +1,8 @@
-/lmsys-chatbot-arena
+*.csv
+*.zip
+*.tar.gz
+*.rar
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
