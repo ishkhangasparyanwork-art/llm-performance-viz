@@ -20,6 +20,5 @@ project/
 │   └── sample_submission.csv 
 │
 ├── eda.ipynb                 
-├── lecture1.ipynb            
 ├── .gitignore               
 └── README.md                
